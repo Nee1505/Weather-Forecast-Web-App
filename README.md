@@ -24,15 +24,6 @@ It fetches real-time weather data using the [OpenWeatherMap API](https://openwea
 - **OpenWeatherMap API** – Real-time weather data  
 
 ---
-## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Styling for the app
-├── main.js # JavaScript logic
-└── images/ # Weather icons & search icon
-
-
-
----
 
 ## ⚙️ Setup & Usage
 1. Clone this repository:
@@ -50,25 +41,7 @@ Open the project folder:
 
 ---
 
-🎨 Preview
-
-Default example:
-
-City: New Delhi
-
-Temperature: 22°C
-
-Humidity: 50%
-
-Wind Speed: 15 km/h
-
-Weather Icon: 🌧️ (Rain)
-
----
-
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 OpenWeatherMap for providing free weather data.
 
-
-## 📂 Project Structure
